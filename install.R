@@ -15,3 +15,6 @@ install.packages('tidyr')
 install.packages("gridExtra")
 install.packages("rsq")
 install.packages("afex")
+install.packages("ggcorrplot") ## make pretty corrplot
+install.packages("GGally") ## scatterplot matrix function
+install.packages("gtrendsR")
