@@ -19,4 +19,5 @@ install.packages("ggcorrplot") ## make pretty corrplot
 install.packages("GGally") ## scatterplot matrix function
 install.packages("gtrendsR")
 install.packages("olsrr") ## ols diagnostics
-
+install.packages("jtools")
+install.packages("interactions")
