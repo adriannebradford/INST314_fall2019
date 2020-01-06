@@ -13,3 +13,9 @@ Two-Way ANOVA:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinde
 CORRELATIONS: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST_314_examples/master?filepath=Two-Way%20and%20Multi-way%20ANOVA.ipynb)
 
 OLS: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST_314_examples/master?filepath=Simple%20Linear%20Regression%20-%20OLS.ipynb)
+
+Multiple Regression - Part 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST_314_examples/master?filepath=Multiple_Regression_PART_ONE.ipynb)
+
+Multiple Regression - Part 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST_314_examples/master?filepath=Multiple_Regression_PART_TWO.ipynb)
+
+Multiple Regression - Part 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST_314_examples/master?filepath=Multiple_Regression_PART_THREE.ipynb)
